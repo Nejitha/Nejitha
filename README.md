@@ -11,7 +11,7 @@
 - HTML & CSS
 
 ### 📌 Projects
-- Egg Timer 
-- AI news curator  
+- [Egg Timer]( https://github.com/Nejitha/Egg-Timer)
+- [AI news curator]( https://github.com/Nejitha/ai_newsly)
 
 🌱 Learning something new every day

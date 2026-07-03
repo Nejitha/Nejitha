@@ -71,20 +71,19 @@ I work with **Python, Java, and C**, and I am strengthening my foundation in **D
 
 ### 🔹 Iris Flower Classifier
 A machine learning project built using Python that classifies iris flower species based on features like sepal length, sepal width, petal length, and petal width.  
-Tech Stack: Python, Machine Learning, Pandas, NumPy  
+🔗 Repository: https://github.com/Nejitha/iris-flower-classifier  
 
 ---
 
 ### 🔹 AI News Curator
-A system that automatically fetches news based on selected topics and generates concise summaries using AI 
-
-Tech Stack: Python, APIs, NLP concepts  
+A system that automatically fetches news based on selected topics and generates concise summaries using AI.   
+🔗 Repository: https://github.com/Nejitha/ai_newsly  
 
 ---
 
 ### 🔹 Egg Timer
 A timer application designed for cooking purposes such as boiling, frying, and other timing requirements with simple user control.  
-Tech Stack: Python, GUI basics
+🔗 Repository: https://github.com/Nejitha/Egg-Timer  
 
 ---
 ## ⚡️ GitHub Stats

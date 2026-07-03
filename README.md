@@ -117,12 +117,11 @@ Tech Stack: Python, GUI basics
 
 ---
 
-
----
-
 <h3 align="center">✨ Thanks for Visiting! ✨</h3>
 
 <p align="center">
 <b>Turning ideas into reality through code.</b><br>
 <i>Code with Passion • Learn with Curiosity • Build with Purpose</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,100:2563EB&section=footer"/>

@@ -107,7 +107,7 @@ Tech Stack: Python, GUI basics
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/3qUczAwan9/)
 
 ---
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nejitha-sulfikkar)
 

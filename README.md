@@ -77,6 +77,7 @@ Tech Stack: Python, Machine Learning, Pandas, NumPy
 
 ### 🔹 AI News Curator
 A system that automatically fetches news based on selected topics and generates concise summaries using AI 
+
 Tech Stack: Python, APIs, NLP concepts  
 
 ---

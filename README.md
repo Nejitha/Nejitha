@@ -40,7 +40,7 @@ I am **Nejitha Sulfikkar**, a final-year B.Tech Computer Science student at the 
 
 My technical skills include **Python, Java, C, SQL, Data Structures & Algorithms**, and I am continuously strengthening my problem-solving abilities through coding practice and projects. I enjoy developing applications in **Python, Data Science, and Web Development**, with a strong focus on writing clean, efficient, and scalable code.
 
-Driven by discipline, consistency, and a growth mindset, I am committed to continuously improving my skills and building impactful software that creates real-world value. My long-term goal is to become a skilled software engineer who contributes to innovative technologies and meaningful solutions.
+Driven by discipline, consistency, and a growth mindset, I am committed to continuously improving my skills and building impactful software that creates real-world value.
 
 </div>
 

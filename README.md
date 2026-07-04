@@ -36,9 +36,11 @@
 
 <div align="left">
 
-I am **Nejitha Sulfikkar**, a final year B.Tech Computer Science student at College of Engineering Perumon, passionate about building real-world software systems and solving meaningful problems through code. I am driven by curiosity in **Artificial Intelligence** and **Machine Learning**, and I enjoy breaking complex problems into simple, efficient solutions while continuously learning through hands-on development.
+I am **Nejitha Sulfikkar**, a final-year B.Tech Computer Science student at the College of Engineering Perumon, passionate about building real-world software solutions and solving meaningful problems through code. I am deeply interested in **Artificial Intelligence** and **Data Science**, and I enjoy transforming complex challenges into simple, efficient solutions while continuously learning through hands-on development.
 
-I work with **Python, Java, and C**, and I am strengthening my foundation in **Data Structures, Algorithms, and SQL**. My focus is on building impactful projects in **Python, Machine Learning, and Web Development**, with a strong mindset of discipline, consistency, and long-term growth toward becoming a skilled software engineer.
+My technical skills include **Python, Java, C, SQL, Data Structures & Algorithms**, and I am continuously strengthening my problem-solving abilities through coding practice and projects. I enjoy developing applications in **Python, Data Science, and Web Development**, with a strong focus on writing clean, efficient, and scalable code.
+
+Driven by discipline, consistency, and a growth mindset, I am committed to continuously improving my skills and building impactful software that creates real-world value. My long-term goal is to become a skilled software engineer who contributes to innovative technologies and meaningful solutions.
 
 </div>
 
